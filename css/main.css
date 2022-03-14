@@ -12,11 +12,11 @@ nav ul li, footer ul li {
     display: inline;
     margin-right: 20px;
 }
-table{
+table {
   border-collapse: collapse;  
   border:1px solid black;
 }
-th, td{
+th, td {
   border:1px solid black;
 }
 a {
