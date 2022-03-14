@@ -2,6 +2,13 @@ body {
     margin: 60px auto;
     width: 70%;
 }
+table{
+  border-collapse:collapse;
+  border:1px solid #FF0000;
+}
+table td{
+  border:1px solid #FF0000;
+}
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     padding: 0px;
