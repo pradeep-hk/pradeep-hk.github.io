@@ -19,6 +19,13 @@ table {
 th, td {
   border:1px solid black;
 }
+tbody tr:nth-child(odd) {
+  background-color: #fff;
+}
+
+tbody tr:nth-child(even) {
+  background-color: #eee;
+}
 a {
     text-decoration: none;
     color: #999;
