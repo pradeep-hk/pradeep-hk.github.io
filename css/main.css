@@ -60,3 +60,7 @@ ul.blogs {
 ul.blogs li {
     list-style: disc;
 }
+
+ul.blogs li a {
+    font-color: blue;
+}
