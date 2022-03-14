@@ -21,7 +21,7 @@ thead {
   color: white;
 }
 th, td {  
-  font-size: 1em;    
+  font-size: 1.1em;    
   border:1px solid black;
 }
 tbody tr:nth-child(odd) {
